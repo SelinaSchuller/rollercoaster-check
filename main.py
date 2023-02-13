@@ -1,7 +1,6 @@
 import lib_coasterimg as coasterimg
 import time
 import os
-
 #ik wil geen python
 #Read check values
 file1 = open("rules/age.txt", "r")
